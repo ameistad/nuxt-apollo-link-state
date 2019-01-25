@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-apollo-link-state",
+  "version": "1.0.0",
+  "description": "My lovely Nuxt.js project",
+  "author": "Andreas Meistad &lt;andreas@meidev.co&gt;",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.0-rc2.3",
+    "apollo-link-state": "^0.4.2",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
