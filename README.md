@@ -1,6 +1,9 @@
 # nuxt-apollo-link-state
 
 > My lovely Nuxt.js project
+This is an example of using apollo-link-state with Nuxt.
+
+Also check out [my blog post](https://www.meidev.co/blog/nuxt-and-apollo-link-state) describing the steps in detail.
 
 ## Build Setup
 
